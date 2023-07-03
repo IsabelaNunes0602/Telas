@@ -17,6 +17,19 @@
 		E5AA38D12A52F273000A34E3 /* TelasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA38D02A52F273000A34E3 /* TelasTests.swift */; };
 		E5AA38DB2A52F273000A34E3 /* TelasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA38DA2A52F273000A34E3 /* TelasUITests.swift */; };
 		E5AA38DD2A52F273000A34E3 /* TelasUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA38DC2A52F273000A34E3 /* TelasUITestsLaunchTests.swift */; };
+		E5AA38F12A52F589000A34E3 /* TelaAzulCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA38F02A52F589000A34E3 /* TelaAzulCoordinator.swift */; };
+		E5AA38F32A52F643000A34E3 /* TelaAzulView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA38F22A52F643000A34E3 /* TelaAzulView.swift */; };
+		E5AA38F62A52F65D000A34E3 /* TelaAzulViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA38F52A52F65D000A34E3 /* TelaAzulViewController.swift */; };
+		E5AA38F92A52F71A000A34E3 /* ButtomDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA38F82A52F71A000A34E3 /* ButtomDefault.swift */; };
+		E5AA38FB2A52FBC8000A34E3 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA38FA2A52FBC8000A34E3 /* Coordinator.swift */; };
+		E5AA38FD2A52FC02000A34E3 /* TelaVerdeCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA38FC2A52FC02000A34E3 /* TelaVerdeCoordinator.swift */; };
+		E5AA38FF2A52FD0E000A34E3 /* TelaVerdeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA38FE2A52FD0E000A34E3 /* TelaVerdeView.swift */; };
+		E5AA39012A52FD1D000A34E3 /* TelaVerdeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA39002A52FD1D000A34E3 /* TelaVerdeViewController.swift */; };
+		E5AA39032A52FD2A000A34E3 /* TelaVermelhaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA39022A52FD2A000A34E3 /* TelaVermelhaView.swift */; };
+		E5AA39052A52FD37000A34E3 /* TelaVermelhaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA39042A52FD37000A34E3 /* TelaVermelhaViewController.swift */; };
+		E5AA39072A52FD4B000A34E3 /* TelaVermelhaCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA39062A52FD4B000A34E3 /* TelaVermelhaCoordinator.swift */; };
+		E5AA39092A530165000A34E3 /* ViewDefault.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA39082A530165000A34E3 /* ViewDefault.swift */; };
+		E5AA390C2A5302A9000A34E3 /* UIColor+.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5AA390B2A5302A9000A34E3 /* UIColor+.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +64,19 @@
 		E5AA38D62A52F273000A34E3 /* TelasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TelasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5AA38DA2A52F273000A34E3 /* TelasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelasUITests.swift; sourceTree = "<group>"; };
 		E5AA38DC2A52F273000A34E3 /* TelasUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelasUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E5AA38F02A52F589000A34E3 /* TelaAzulCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaAzulCoordinator.swift; sourceTree = "<group>"; };
+		E5AA38F22A52F643000A34E3 /* TelaAzulView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaAzulView.swift; sourceTree = "<group>"; };
+		E5AA38F52A52F65D000A34E3 /* TelaAzulViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaAzulViewController.swift; sourceTree = "<group>"; };
+		E5AA38F82A52F71A000A34E3 /* ButtomDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtomDefault.swift; sourceTree = "<group>"; };
+		E5AA38FA2A52FBC8000A34E3 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		E5AA38FC2A52FC02000A34E3 /* TelaVerdeCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVerdeCoordinator.swift; sourceTree = "<group>"; };
+		E5AA38FE2A52FD0E000A34E3 /* TelaVerdeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVerdeView.swift; sourceTree = "<group>"; };
+		E5AA39002A52FD1D000A34E3 /* TelaVerdeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVerdeViewController.swift; sourceTree = "<group>"; };
+		E5AA39022A52FD2A000A34E3 /* TelaVermelhaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVermelhaView.swift; sourceTree = "<group>"; };
+		E5AA39042A52FD37000A34E3 /* TelaVermelhaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVermelhaViewController.swift; sourceTree = "<group>"; };
+		E5AA39062A52FD4B000A34E3 /* TelaVermelhaCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaVermelhaCoordinator.swift; sourceTree = "<group>"; };
+		E5AA39082A530165000A34E3 /* ViewDefault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewDefault.swift; sourceTree = "<group>"; };
+		E5AA390B2A5302A9000A34E3 /* UIColor+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,14 +127,9 @@
 		E5AA38B52A52F26F000A34E3 /* Telas */ = {
 			isa = PBXGroup;
 			children = (
-				E5AA38B62A52F26F000A34E3 /* AppDelegate.swift */,
-				E5AA38B82A52F26F000A34E3 /* SceneDelegate.swift */,
-				E5AA38BA2A52F26F000A34E3 /* ViewController.swift */,
-				E5AA38BC2A52F26F000A34E3 /* Main.storyboard */,
-				E5AA38C22A52F272000A34E3 /* Assets.xcassets */,
-				E5AA38C42A52F272000A34E3 /* LaunchScreen.storyboard */,
 				E5AA38C72A52F272000A34E3 /* Info.plist */,
-				E5AA38BF2A52F26F000A34E3 /* Telas.xcdatamodeld */,
+				E5AA38EA2A52F438000A34E3 /* Source */,
+				E5AA38E92A52F3F9000A34E3 /* Resource */,
 			);
 			path = Telas;
 			sourceTree = "<group>";
@@ -128,6 +149,96 @@
 				E5AA38DC2A52F273000A34E3 /* TelasUITestsLaunchTests.swift */,
 			);
 			path = TelasUITests;
+			sourceTree = "<group>";
+		};
+		E5AA38E92A52F3F9000A34E3 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				E5AA38BF2A52F26F000A34E3 /* Telas.xcdatamodeld */,
+				E5AA38B62A52F26F000A34E3 /* AppDelegate.swift */,
+				E5AA38B82A52F26F000A34E3 /* SceneDelegate.swift */,
+				E5AA38BA2A52F26F000A34E3 /* ViewController.swift */,
+				E5AA38BC2A52F26F000A34E3 /* Main.storyboard */,
+				E5AA38C22A52F272000A34E3 /* Assets.xcassets */,
+				E5AA38C42A52F272000A34E3 /* LaunchScreen.storyboard */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		E5AA38EA2A52F438000A34E3 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				E5AA390A2A53028F000A34E3 /* Extensions */,
+				E5AA38F72A52F6FD000A34E3 /* Infraestructure */,
+				E5AA38EC2A52F46D000A34E3 /* Controller */,
+				E5AA38EB2A52F467000A34E3 /* Coordinator */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		E5AA38EB2A52F467000A34E3 /* Coordinator */ = {
+			isa = PBXGroup;
+			children = (
+				E5AA38F02A52F589000A34E3 /* TelaAzulCoordinator.swift */,
+				E5AA38FA2A52FBC8000A34E3 /* Coordinator.swift */,
+				E5AA38FC2A52FC02000A34E3 /* TelaVerdeCoordinator.swift */,
+				E5AA39062A52FD4B000A34E3 /* TelaVermelhaCoordinator.swift */,
+			);
+			path = Coordinator;
+			sourceTree = "<group>";
+		};
+		E5AA38EC2A52F46D000A34E3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E5AA38EF2A52F4DD000A34E3 /* TelaVermelha */,
+				E5AA38EE2A52F4C2000A34E3 /* TelaVerde */,
+				E5AA38ED2A52F4AA000A34E3 /* TelaAzul */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E5AA38ED2A52F4AA000A34E3 /* TelaAzul */ = {
+			isa = PBXGroup;
+			children = (
+				E5AA38F22A52F643000A34E3 /* TelaAzulView.swift */,
+				E5AA38F52A52F65D000A34E3 /* TelaAzulViewController.swift */,
+			);
+			path = TelaAzul;
+			sourceTree = "<group>";
+		};
+		E5AA38EE2A52F4C2000A34E3 /* TelaVerde */ = {
+			isa = PBXGroup;
+			children = (
+				E5AA38FE2A52FD0E000A34E3 /* TelaVerdeView.swift */,
+				E5AA39002A52FD1D000A34E3 /* TelaVerdeViewController.swift */,
+			);
+			path = TelaVerde;
+			sourceTree = "<group>";
+		};
+		E5AA38EF2A52F4DD000A34E3 /* TelaVermelha */ = {
+			isa = PBXGroup;
+			children = (
+				E5AA39022A52FD2A000A34E3 /* TelaVermelhaView.swift */,
+				E5AA39042A52FD37000A34E3 /* TelaVermelhaViewController.swift */,
+			);
+			path = TelaVermelha;
+			sourceTree = "<group>";
+		};
+		E5AA38F72A52F6FD000A34E3 /* Infraestructure */ = {
+			isa = PBXGroup;
+			children = (
+				E5AA38F82A52F71A000A34E3 /* ButtomDefault.swift */,
+				E5AA39082A530165000A34E3 /* ViewDefault.swift */,
+			);
+			path = Infraestructure;
+			sourceTree = "<group>";
+		};
+		E5AA390A2A53028F000A34E3 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				E5AA390B2A5302A9000A34E3 /* UIColor+.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -261,10 +372,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5AA39052A52FD37000A34E3 /* TelaVermelhaViewController.swift in Sources */,
 				E5AA38BB2A52F26F000A34E3 /* ViewController.swift in Sources */,
 				E5AA38B72A52F26F000A34E3 /* AppDelegate.swift in Sources */,
 				E5AA38B92A52F26F000A34E3 /* SceneDelegate.swift in Sources */,
+				E5AA38F62A52F65D000A34E3 /* TelaAzulViewController.swift in Sources */,
+				E5AA38F12A52F589000A34E3 /* TelaAzulCoordinator.swift in Sources */,
+				E5AA39032A52FD2A000A34E3 /* TelaVermelhaView.swift in Sources */,
+				E5AA38F32A52F643000A34E3 /* TelaAzulView.swift in Sources */,
+				E5AA390C2A5302A9000A34E3 /* UIColor+.swift in Sources */,
+				E5AA38F92A52F71A000A34E3 /* ButtomDefault.swift in Sources */,
+				E5AA39072A52FD4B000A34E3 /* TelaVermelhaCoordinator.swift in Sources */,
 				E5AA38C12A52F26F000A34E3 /* Telas.xcdatamodeld in Sources */,
+				E5AA38FB2A52FBC8000A34E3 /* Coordinator.swift in Sources */,
+				E5AA39092A530165000A34E3 /* ViewDefault.swift in Sources */,
+				E5AA38FD2A52FC02000A34E3 /* TelaVerdeCoordinator.swift in Sources */,
+				E5AA38FF2A52FD0E000A34E3 /* TelaVerdeView.swift in Sources */,
+				E5AA39012A52FD1D000A34E3 /* TelaVerdeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
